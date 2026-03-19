@@ -11,7 +11,7 @@ Uma base de conhecimento interativa sobre corpos celestes, desenvolvida durante 
 - CSS3
 - JavaScript 
 
-### Acesse a página do projeto [clicando aqui](https://antonio-rafael-silva.github.io/projeto-space-overseer/)
+### Acesse a página do projeto [clicando aqui](https://antoniorafaeldev.github.io/projeto-space-overseer/)
 
 - Website - [Antônio Rafael]()
 - Linkedin - [Antônio Rafael](https://www.linkedin.com/in/ant%C3%B4nio-rafael-01131b372/)
